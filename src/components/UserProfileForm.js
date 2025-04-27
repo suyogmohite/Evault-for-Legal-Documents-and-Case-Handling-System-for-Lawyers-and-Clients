@@ -211,9 +211,9 @@ const UserProfileForm = () => {
                 value={userType}
                 onChange={(e) => setUserType(e.target.value)}
               >
+                                <option value="Please Select">Please Select</option>
                 <option value="lawyer">Lawyer</option>
                 <option value="client">Client</option>
-                <option value="master" className="text-danger">Master (Dev Mode)</option>
               </Form.Control>
             </Col>
           </Form.Group>

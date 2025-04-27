@@ -1,4 +1,4 @@
-export const profileAddress = "0x0D1b8d39f74e3e2D41E52ED33794b8cD22763DFc"
+export const profileAddress = "0x1dd9d6f75cdA2861aBDB3c321b89F33faf75b41a"
 export const profileABI = [
 	{
 		"inputs": [
